@@ -1,0 +1,15 @@
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\bin\Debug\QSI.Keyhole.Interactive.exe.config
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\bin\Debug\QSI.Keyhole.Interactive.exe
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\bin\Debug\QSI.Keyhole.Interactive.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\bin\Debug\QSI.Keyhole.Processing.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\bin\Debug\QSI.Threading.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\bin\Debug\QSI.Extensions.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\bin\Debug\QSI.Keyhole.Processing.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\bin\Debug\QSI.Threading.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\bin\Debug\QSI.Extensions.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\obj\Debug\QSI.Keyhole.Interactive.csprojResolveAssemblyReference.cache
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\obj\Debug\QSI.Keyhole.Interactive.exe
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\obj\Debug\QSI.Keyhole.Interactive.pdb
+C:\c\sides\QSI.Keyhole\QSI.Keyhole.Console\bin\Debug\QSI.Keyhole.Interactive.exe.config
+C:\c\sides\QSI.Keyhole\QSI.Keyhole.Console\obj\Debug\QSI.Keyhole.Interactive.exe
+C:\c\sides\QSI.Keyhole\QSI.Keyhole.Console\obj\Debug\QSI.Keyhole.Interactive.pdb

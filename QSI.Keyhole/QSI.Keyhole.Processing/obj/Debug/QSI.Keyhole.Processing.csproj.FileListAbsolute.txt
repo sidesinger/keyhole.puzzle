@@ -1,0 +1,9 @@
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Processing\bin\Debug\QSI.Keyhole.Processing.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Processing\bin\Debug\QSI.Keyhole.Processing.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Processing\bin\Debug\QSI.Extensions.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Processing\bin\Debug\QSI.Threading.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Processing\bin\Debug\QSI.Extensions.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Processing\bin\Debug\QSI.Threading.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Processing\obj\Debug\QSI.Keyhole.Processing.csprojResolveAssemblyReference.cache
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Processing\obj\Debug\QSI.Keyhole.Processing.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Processing\obj\Debug\QSI.Keyhole.Processing.pdb

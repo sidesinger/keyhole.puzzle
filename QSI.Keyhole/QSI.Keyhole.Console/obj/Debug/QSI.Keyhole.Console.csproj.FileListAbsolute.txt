@@ -1,0 +1,6 @@
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\bin\Debug\QSI.Keyhole.Console.exe.config
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\bin\Debug\QSI.Keyhole.Console.exe
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\bin\Debug\QSI.Keyhole.Console.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\obj\Debug\QSI.Keyhole.Console.csprojResolveAssemblyReference.cache
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\obj\Debug\QSI.Keyhole.Console.exe
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Console\obj\Debug\QSI.Keyhole.Console.pdb

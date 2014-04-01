@@ -1,0 +1,5 @@
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Extensions\bin\Debug\QSI.Extensions.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Extensions\bin\Debug\QSI.Extensions.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Extensions\obj\Debug\QSI.Extensions.csprojResolveAssemblyReference.cache
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Extensions\obj\Debug\QSI.Extensions.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Extensions\obj\Debug\QSI.Extensions.pdb

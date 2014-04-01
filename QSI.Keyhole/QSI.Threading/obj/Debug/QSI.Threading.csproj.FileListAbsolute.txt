@@ -1,0 +1,4 @@
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Threading\bin\Debug\QSI.Threading.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Threading\bin\Debug\QSI.Threading.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Threading\obj\Debug\QSI.Threading.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Threading\obj\Debug\QSI.Threading.pdb

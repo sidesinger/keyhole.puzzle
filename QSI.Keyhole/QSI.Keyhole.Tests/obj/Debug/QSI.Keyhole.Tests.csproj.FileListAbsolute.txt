@@ -1,0 +1,14 @@
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Tests\bin\Debug\QSI.Keyhole.Tests.dll.config
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Tests\bin\Debug\QSI.Keyhole.Tests.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Tests\bin\Debug\QSI.Keyhole.Tests.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Tests\bin\Debug\QSI.Keyhole.Interactive.exe
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Tests\bin\Debug\QSI.Keyhole.Processing.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Tests\bin\Debug\QSI.Threading.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Tests\bin\Debug\QSI.Extensions.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Tests\bin\Debug\QSI.Keyhole.Interactive.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Tests\bin\Debug\QSI.Keyhole.Processing.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Tests\bin\Debug\QSI.Threading.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Tests\bin\Debug\QSI.Extensions.pdb
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Tests\obj\Debug\QSI.Keyhole.Tests.csprojResolveAssemblyReference.cache
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Tests\obj\Debug\QSI.Keyhole.Tests.dll
+c:\users\sides_000\documents\visual studio 2012\Projects\QSI.Keyhole\QSI.Keyhole.Tests\obj\Debug\QSI.Keyhole.Tests.pdb
